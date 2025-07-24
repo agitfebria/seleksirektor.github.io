@@ -65,53 +65,109 @@
 				<div class="collapse navbar-collapse" id="navbars-host">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item"><a class="nav-link" href="index.php">Beranda</a></li>
-						<li class="nav-item"><a class="nav-link" href="tahapan.php">Tahapan</a></li>
+						<li class="nav-item active"><a class="nav-link" href="tahapan.php">Tahapan</a></li>
 						<li class="nav-item"><a class="nav-link" href="unduhan.php">Unduhan</a></li>
 						<li class="nav-item"><a class="nav-link" href="persyaratan.php">Pendaftaran</a></li>
 						
 						<!--
                         <li class="nav-item"><a class="nav-link" href="teachers.html">Kandidat</a></li>
                         -->
-						<li class="nav-item active"><a class="nav-link" href="contact.php">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
 		</nav>
 	</header>
 	<!-- End header -->
-	
-	
-    <div id="contact" class="section wb">
-        <div class="container">
-            <div class="section-title text-center">
-                <h3> </h3>
-                <p class="lead"> </p>
+
+
+			<!-- Left Control -->
+			<a class="new-effect carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+				<span class="fa fa-angle-left" aria-hidden="true"></span>
+				<span class="sr-only">Previous</span>
+			</a>
+
+			<!-- Right Control -->
+			<a class="new-effect carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+				<span class="fa fa-angle-right" aria-hidden="true"></span>
+				<span class="sr-only">Next</span>
+			</a>
+		</div>
+	</div>
+
+    <section class="section lb page-section">
+		<div class="container">
+			 <div class="section-title row text-center">
+                <div class="col-md-8 offset-md-2">
+                    <h3>Tahapan Pemilihan Rektor</h3>
+                    <p class="lead">Berikut adalah tahapan seleksi pemilihan Rektor Unitri periode 2025-2030</p>
+                </div>
             </div><!-- end title -->
-
-
-
-                <!--Start Section -->
-			<section class="section lb page-section">
-				<div class="container">
-					 <div class="section-title row text-left">
-		                <div class="col-md-8 offset-md-1">
-		                    <h3>Sekretariat Panitia Seleksi Rektor</h3>
-		                    <p class="lead"><b>Jl. Telaga Warna, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144</b></p>
-		                    <p>Telepon: (0341) 565500</p>
-		                    <br>
-		                    <br>
-		                    <p><i>Jam Kerja</i></p>
-		                    <p>~ Senin - Kamis 08.00 <i>s.d</i> 15.00</p>
-		                    <p>~ Sabtu 08.00 <i>s.d</i> 13.00</p>
-		                </div>
+			<div class="timeline">
+				<div class="timeline__wrap">
+					<div class="timeline__items">
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-01">
+								<h2>1 Juli 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-02">
+								<h2>8 Juli 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-03">
+								<h2>16 Juli 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-04">
+								<h2>25 Juli 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-01">
+								<h2>8 Agustus 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-02">
+								<h2>10 Agustus 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-03">
+								<h2>11 Agustus 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
+						</div>
+						<div class="timeline__item">
+							<div class="timeline__content img-bg-04">
+								<h2>15Agustus 2025</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dignissim neque condimentum lacus dapibus. Lorem
+									ipsum dolor sit amet, consectetur adipiscing elit.</p>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-<!--End Section-->
-	
+
 
 
     <footer class="footer">
@@ -122,8 +178,9 @@
                         <div class="widget-title">
                             <h3>Kantor Sekretariat</h3>
                         </div>
-                        <p> Jl. Telaga Warna, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144</p>
-                        <div class="footer-right"></div>
+                        <p> Jl. Telaga Warna, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144</p> 
+                        <div class="footer-right">
+						</div>
                     </div><!-- end clearfix -->
                 </div><!-- end col -->
 
@@ -166,16 +223,17 @@
 
     <!-- ALL JS FILES -->
     <script src="js/all.js"></script>
-    <!-- ALL JS FILES 
-	<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyCKjLTXdq6Db3Xit_pW_GK4EXuPRtnod4o"></script>
-
-	<!-- Mapsed JavaScript -->
-	<!--
-	<script src="js/mapsed.js"></script>
-	<script src="js/01-custom-places-example.js"></script>
-	-->
     <!-- ALL PLUGINS -->
     <script src="js/custom.js"></script>
+	<script src="js/timeline.min.js"></script>
+	<script>
+		timeline(document.querySelectorAll('.timeline'), {
+			forceVerticalMode: 700,
+			mode: 'horizontal',
+			verticalStartPosition: 'left',
+			visibleItems: 4
+		});
+	</script>
 
 </body>
 </html>

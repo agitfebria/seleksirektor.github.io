@@ -66,13 +66,13 @@
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item"><a class="nav-link" href="index.php">Beranda</a></li>
 						<li class="nav-item"><a class="nav-link" href="tahapan.php">Tahapan</a></li>
-						<li class="nav-item"><a class="nav-link" href="unduhan.php">Unduhan</a></li>
-						<li class="nav-item"><a class="nav-link" href="persyaratan.php">Pendaftaran</a></li>
+                        <li class="nav-item"><a class="nav-link" href="unduhan.php">Unduhan</a></li>
+						<li class="nav-item active"><a class="nav-link" href="persyaratan.php">Pendaftaran</a></li>
 						
 						<!--
                         <li class="nav-item"><a class="nav-link" href="teachers.html">Kandidat</a></li>
                         -->
-						<li class="nav-item active"><a class="nav-link" href="contact.php">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -94,17 +94,38 @@
 			<section class="section lb page-section">
 				<div class="container">
 					 <div class="section-title row text-left">
-		                <div class="col-md-8 offset-md-1">
-		                    <h3>Sekretariat Panitia Seleksi Rektor</h3>
-		                    <p class="lead"><b>Jl. Telaga Warna, Tlogomas, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144</b></p>
-		                    <p>Telepon: (0341) 565500</p>
+		                <div class="col-md-11 offset-md-1">
+		                    <h4><b>PERSYARATAN CALON REKTOR UNIVERSITAS TRIBHUWANA TUGGADEWI</b></h4>
+                            <h4><b>MASA BAKTI 2025 - 2030</b></h4>
+		                    <p>Berdasarkan Peraturan Pengurus Yayasan Universitas Tribhuwana Tunggadewi Nomor xx Tahun 20xx Tentang Tata Cara Pengangkatan Dan Penetapan Rektor Universitas Tribhuwana Tunggadewi Masa Bakti 2025-2030, maka Calon Rektor harus memenuhi persyaratan sebagai berikut:</p>
 		                    <br>
-		                    <br>
-		                    <p><i>Jam Kerja</i></p>
-		                    <p>~ Senin - Kamis 08.00 <i>s.d</i> 15.00</p>
-		                    <p>~ Sabtu 08.00 <i>s.d</i> 13.00</p>
+		                    <p>
+                                1. Foto berwarna terbaru 6 Bulan terakhir standar paspor dan berlatar belakang biru ukuran 4 x 6 sebanyak 3 lembar<br>
+                            </p>
+		                    <p>2. <b>Formulir 2.0</b> Pakta Integritas</p>
+                            <p>3. <b>Formulir 3.0</b> Rekam Jejak (yang berisi kegiatan-kegiatan pendidikan, penelitian, pengabdian masyarakat, dan dengan pengalaman mengelola Lembaga pendidikan dan/atau kepemimpinan secara umum disertai dokumen pendukung).</p>
+                            <p><b>4.  Khusus untuk pelamar eksternal Universitas Tribhuwana Tunggadewi, harap dilampirkan juga:</b></p>
+                            <p>a. Foto copy ijazah pendidikan terakhir (gelar pendidikan akademik doktor/S3), penyetaraan ijazah S3 (bila berasal dari luar negeri), dan SK penetapan jabatan fungsional terakhir;</p>
+                            <p>b.  Foto copy surat tanda kenal lahir bagi pelamar;</p>
+                            <p>c.  Foto copy identitas diri bagi pelamar;</p>
 		                </div>
-						</div>
+
+                        <!--Button start-->
+                        <div id="pricing-box" class="section wb">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-md-4 col-sm-6">
+                                    <div class="pricingTable">
+                                        <div class="pricingTable-header">
+                                        </div>
+                                        <div class="pricingContent">
+                                        </div><!-- /  CONTENT BOX-->
+                                        <div class="pricingTable-sign-up">
+                                            <a href="https://forms.gle/TEn7t1jar2P4UeaYA" class="hover-btn-new purple"><span>Daftar</span></a>
+                                        </div><!-- BUTTON BOX-->
+                                    </div>
+                                </div>
+                        <!--Button end-->
 					</div>
 				</div>
 			</div>
